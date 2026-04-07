@@ -1,4 +1,4 @@
-## ReplayWho Mod for MC1.8.9-FORGE
+## HypixelReplayWho Mod for MC1.8.9-FORGE
 
 ahhhhh coded by lovewithmaomao & grok
 
